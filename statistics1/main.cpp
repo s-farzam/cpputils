@@ -13,7 +13,7 @@ int main() {
     do {
 
         cout << "\nP - Print numbers." << endl;
-        cout << "A - Add a numbers." << endl;
+        cout << "A - Add a number." << endl;
         cout << "M - Display mean of the numbers." << endl;
         cout << "S - Display the smallest numbers." << endl;
         cout << "L - Display the largest numbers." << endl;
